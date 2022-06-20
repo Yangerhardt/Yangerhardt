@@ -6,6 +6,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangerhardt&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
-##### 💻 I’m currently working on some *Python* projects.
-##### 📚 I’m still stuying *Python* and it's libraries.
+##### 💻 I’m currently working on some *Front-End* projects.
+##### 📚 I’m still stuying *Python*, but now started to get myself into *HTML, CSS and Javascript*.
 ##### 💬 Ask me about anything you want :)
