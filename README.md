@@ -7,5 +7,5 @@
 </div>
   
 ##### 💻 I’m currently working on some *Front-End* projects.
-##### 📚 I’m still stuying *Python*, but now started to get myself into *HTML, CSS and Javascript*.
+##### 📚 I’m still stuying *Python*, but now started to get myself into *HTML, CSS* and *Javascript*.
 ##### 💬 Ask me about anything you want :)
