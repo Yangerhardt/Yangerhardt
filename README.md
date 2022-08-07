@@ -1,4 +1,4 @@
-### Hey!! I'm Yan, a programming student and technology enthusiastic
+### Hey! I'm Yan, a programming student and technology enthusiastic
 
 <div align="center">
   <a href="https://github.com/yangerhardt">
