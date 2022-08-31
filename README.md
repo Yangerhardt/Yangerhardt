@@ -9,8 +9,26 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangerhardt&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-<img height="30em" serc="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>
 
+### Skills:
+<div align="center">
+  <img height="40em" margin="10em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+<br>   
+
+
+### Estudando:
+<div align="center">
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  
+</div>
+<br>      
 
 ### Sobre mim
 
