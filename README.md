@@ -37,12 +37,10 @@
 
 ### Sobre mim
 
-Sou graduado em engenharia civil pela UFRGS e moro em Porto Alegre e estudante de Desenvolvimento de Sistemas pelo Senac. Minha primeira introdução à programção foi em uma cadeira durante o primeiro semestre da faculdade, de <strong>introdução à linguagem C</strong>
+Sou graduado em engenharia civil pela UFRGS e estudante de Desenvolvimento de Sistemas. Meu primeiro contato com a programção foi em uma cadeira durante o primeiro semestre da faculdade, de <strong>introdução à linguagem C</strong>
 
 Comecei meus estudos pelo Python, para praticar a lógica de programação e aprender a fundo minha primeira linguagem, assim como relemebrar tudo que já havia aprendido. Participei, inclusive, da <strong>Imersão Dados da Alura</strong> para praticar um pouco mais sobre o Pandas, assim como aprender sobre o NumPy.
 
 Posteriormente, mudei o meu foco de estudos para o Front-End. Comecei pelo básico de HTML e CSS. Uma vez dominados os markups, passei para o Bootstrap e, só então, comecei meus estudos no Javascript e Typescript. 
 
-Hoje domino todas as linguagens acima e estou praticando e aprendendo React e SQL.
-
-Ah, e sou estudante da Alura também!
+Hoje domino todas as linguagens acima e estou praticando e aprendendo React e SQL, com foco de atuação como Full Stacks
