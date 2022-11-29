@@ -8,7 +8,7 @@ Comecei meus estudos pelo Python, para praticar a lógica de programação e apr
 
 Posteriormente, mudei o meu foco de estudos para o Front-End. Comecei pelo básico de HTML e CSS. Uma vez dominados os markups, passei para o Bootstrap e, só então, comecei meus estudos no Javascript e Typescript. 
 
-Hoje domino todas as linguagens acima e estou praticando e aprendendo React e SQL, com foco de atuação como Full Stacks.
+Hoje domino todas as linguagens abaixo e estou praticando e aprendendo React e SQL, com foco de atuação como Full Stacks.
 
 
 
