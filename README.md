@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou graduado em engenharia civil pela UFRGS e estudante de Desenvolvimento de Sistemas. Meu primeiro contato com a programção foi em uma cadeira durante o primeiro semestre da faculdade, de <strong>introdução à linguagem C</strong>
+Sou formado em engenharia civil pela UFRGS e estudante de Desenvolvimento de Sistemas. Meu primeiro contato com a programção foi em uma cadeira durante o primeiro semestre da faculdade, de <strong>introdução à linguagem C</strong>
 
 Comecei meus estudos pelo Python, para praticar a lógica de programação e aprender a fundo minha primeira linguagem, assim como relemebrar tudo que já havia aprendido. Participei, inclusive, da <strong>Imersão Dados da Alura</strong> para praticar um pouco mais sobre o Pandas, assim como aprender sobre o NumPy.
 
