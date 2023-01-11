@@ -1,4 +1,4 @@
-## Olá! Me chamo Yan e um desenvolvedor Front-End.
+## Olá! Me chamo Yan e um desenvolvedor Fullstacks.
 
 ### Sobre mim
 
