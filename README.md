@@ -35,6 +35,7 @@ Hoje domino todas as linguagens, bibliotecas e frameworks abaixo e estou pratica
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   
 </div>
 <br>
