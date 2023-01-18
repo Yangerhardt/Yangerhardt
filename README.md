@@ -2,13 +2,13 @@
 
 ### Sobre mim
 
-Sou formado em engenharia civil pela UFRGS e estudante de Desenvolvimento de Sistemas. Meu primeiro contato com a programção foi em uma cadeira durante o primeiro semestre da faculdade, de <strong>introdução à linguagem C</strong>
+Sou formado em engenharia civil pela UFRGS e estudante de Desenvolvimento de Sistemas. Meu primeiro contato com a programção foi em uma cadeira durante o primeiro semestre da faculdade, de <strong>introdução à linguagem C</strong>, o que me manteve longe da área por um bom tempo.
 
-Comecei meus estudos pelo Python, para praticar a lógica de programação e aprender a fundo minha primeira linguagem, assim como relemebrar tudo que já havia aprendido. Participei, inclusive, da <strong>Imersão Dados da Alura</strong> para praticar um pouco mais sobre o Pandas, assim como aprender sobre o NumPy.
+Alguns anos depois, me desafiei a começar pela lógica de programação, e, alguns meses depois, minha vida já era 100% focada na tecnologia. Tamanha foi a paixão que eu tive pela área.
 
-Posteriormente, mudei o meu foco de estudos para o Front-End. Comecei pelo básico de HTML e CSS. Uma vez dominados os markups, passei para o Bootstrap e, só então, comecei meus estudos no Javascript e Typescript. 
+Hoje atuo como Desenvolvedor Full Stack Trainee no Grupo FCamara.
 
-Hoje domino todas as linguagens, bibliotecas e frameworks abaixo e estou praticando e aprendendo SQL, com foco de atuação como Full Stacks.
+Estudos, estudos e mais estudos, isso resume cruamente todo o processo. 
 
 
 
