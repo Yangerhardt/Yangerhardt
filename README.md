@@ -1,4 +1,4 @@
-## Olá! Me chamo Yan e um desenvolvedor Full Stack.
+## Olá! Me chamo Yan e sou desenvolvedor Full Stack.
 
 ### Sobre mim
 
