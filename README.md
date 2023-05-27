@@ -6,7 +6,7 @@ Sou formado em engenharia civil pela UFRGS e estudante de Desenvolvimento de Sis
 
 Alguns anos depois, me desafiei a começar pela lógica de programação, e, alguns meses depois, minha vida já era 100% focada na tecnologia. Tamanha foi a paixão que eu tive pela área.
 
-Hoje atuo como Desenvolvedor Full Stack Trainee no Grupo FCamara.
+Hoje atuo como Desenvolvedor Front-End na HP.
 
 Estudos, estudos e mais estudos, isso resume cruamente todo o processo. 
 
