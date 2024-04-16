@@ -8,9 +8,6 @@ Alguns anos depois, me desafiei a começar pela lógica de programação, e, alg
 
 Hoje atuo como Desenvolvedor Front-End na HP.
 
-Estudos, estudos e mais estudos, isso resume cruamente grande parte do processo. 
-
-
 
 ### Skills:
 <div align="center">
