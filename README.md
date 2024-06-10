@@ -4,9 +4,9 @@
 
 Sou formado em engenharia civil pela UFRGS e estudante de Desenvolvimento de Sistemas. Meu primeiro contato com a programção foi em uma cadeira durante o primeiro semestre da faculdade, de <strong>introdução à linguagem C</strong>, o que me manteve longe da área por um bom tempo.
 
-Alguns anos depois, me desafiei a começar pela lógica de programação, e, alguns meses depois, minha vida já era 100% focada na tecnologia. Tamanha foi a paixão que eu tive pela área.
+Alguns anos depois, me desafiei a começar pela lógica de programação, e, alguns meses depois, minha vida já era 100% focada na tecnologia.
 
-Hoje atuo como engenheiro de Software na HP.
+Hoje atuo como Engenheiro de Software na HP.
 
 
 ### Skills:
