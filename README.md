@@ -1,12 +1,6 @@
-## Olá! Me chamo Yan e sou desenvolvedor Full Stack.
+## Hi, I'm Yan.
 
-### Sobre mim
-
-Sou formado em engenharia civil pela UFRGS e estudante de Desenvolvimento de Sistemas. Meu primeiro contato com a programção foi em uma cadeira durante o primeiro semestre da faculdade, de <strong>introdução à linguagem C</strong>, o que me manteve longe da área por um bom tempo.
-
-Alguns anos depois, me desafiei a começar pela lógica de programação, e, alguns meses depois, minha vida já era 100% focada na tecnologia.
-
-Hoje atuo como Engenheiro de Software na HP.
+Currently working as Software Enginner for HP.
 
 
 ### Skills:
@@ -27,7 +21,7 @@ Hoje atuo como Engenheiro de Software na HP.
 </div>
 <br>   
 
-### Estudando:
+### Studying:
 <div align="center">
   
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -41,10 +35,9 @@ Hoje atuo como Engenheiro de Software na HP.
 </div>
 <br>
 
-### GitHub dados:
+### GitHub data:
 <div align="center">
   <a href="https://github.com/yangerhardt">
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yangerhardt&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangerhardt&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
