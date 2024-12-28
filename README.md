@@ -38,6 +38,6 @@ Currently working as Software Enginner for HP.
 ### GitHub data:
 <div align="center">
   <a href="https://github.com/yangerhardt">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangerhardt&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangerhardt&layout=compact&langs_count=10&theme=gruvbox"/>
 </div>
 
